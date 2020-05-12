@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "firstName": "Vanessa",
+        "lastName": "Elizondo",
+        "email": "vanessa@yahoo.com",
+        "phone": "(111) 222-3333",
+        "editing": false
+    },
+    {
+        "id": 2,
+        "firstName": "Mike",
+        "lastName": "Tyson",
+        "email": "mike@yahoo.com",
+        "phone": "(111) 333-3333",
+        "editing": false
+    },
+    {
+        "id": 3,
+        "firstName": "Joe",
+        "lastName": "Biden",
+        "email": "jbiden@yahoo.com",
+        "phone": "(111) 444-3333",
+        "editing": false
+    }
+]
